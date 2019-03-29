@@ -1,6 +1,9 @@
 # a11y-audit
 To setup basic accessibility audits
 
+## Repos
+One basic, empty, repository to be cloned as a new repo for each new client. 
+
 ## Audit components
 To be created as different projects. Each issue can be logged against different projects
 
