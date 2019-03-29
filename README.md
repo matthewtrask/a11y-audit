@@ -1,6 +1,15 @@
 # a11y-audit
 To setup basic accessibility audits
 
+## Audit components
+To be created as different projects. Each issue can be logged against different projects
+
+## Milestones
+These can be adjusted as needed
+
+## Issues
+Have a look at the sample issues. Also, try creating a new issue. See what you think
+
 ## Some things to consider
 
 * Need a form to submit information to make it easier to log things - maybe?
